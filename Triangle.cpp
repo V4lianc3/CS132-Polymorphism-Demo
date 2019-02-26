@@ -1,4 +1,3 @@
-//Larry Watters
 // Triangle cpp
 
 
